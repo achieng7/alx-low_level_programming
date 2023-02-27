@@ -1,7 +1,8 @@
+
 #include "main.h"
 
 /**
- *takes a pointer and updates the value it point to
+ * takes a pointer and updates the value it point to
  * @n: pointer
  * Return: void
  */
